@@ -1,3 +1,3 @@
 # course-Fundamentals-of-data-mining
-数据挖掘基础课程资料
-test
+2018-2019学年 数据挖掘基础课程资料
+
